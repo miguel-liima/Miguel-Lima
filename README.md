@@ -56,3 +56,20 @@ Stay tuned. ⚡
 <p align="center">
   🇧🇷 Made in Brazil
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miguel-liima&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-liima&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-liima&theme=dark&hide_border=true&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <i>Learning something new every day. ⚡</i>
+</p>
